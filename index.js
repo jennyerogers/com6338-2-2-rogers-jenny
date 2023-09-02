@@ -18,5 +18,5 @@ var yob;
     else {
         yob= thisyear -age -1;
     }
-alert ("It looks like you were born in" + yob )
+alert ("It looks like you were born in " + yob )
 }
